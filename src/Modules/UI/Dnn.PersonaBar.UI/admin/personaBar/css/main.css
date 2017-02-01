@@ -809,6 +809,20 @@ transform: rotate(180deg);
     background: url('../images/nav_settings_pending.svg') no-repeat;
 }
 
+    .personabarnav > li#Dnn\.Prompt:before {
+        background: url('../images/nav_prompt.svg') no-repeat;
+    }
+
+    .personabarnav > li#Dnn\.Prompt:hover:before,
+    .personabarnav > li#Dnn\.Prompt.active:before,
+    .personabarnav > li#Dnn\.Prompt.selected:before {
+        background: url('../images/nav_prompt_selected.svg') no-repeat;
+    }
+
+    .personabarnav > li#Dnn\.Prompt.pending:before {
+        background: url('../images/nav_prompt_pending.svg') no-repeat;
+    }
+
 .personabarnav > li#Edit.selected {
     color: #737171;
     background-color: transparent;

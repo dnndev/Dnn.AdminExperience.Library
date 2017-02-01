@@ -207,6 +207,9 @@
     <Content Include="admin\personaBar\images\nav_edit_selected.svg" />
     <Content Include="admin\personaBar\images\nav_manage_pending.svg" />
     <Content Include="admin\personaBar\images\nav_manage_selected.svg" />
+    <Content Include="admin\personaBar\images\nav_prompt.svg" />
+    <Content Include="admin\personaBar\images\nav_prompt_pending.svg" />
+    <Content Include="admin\personaBar\images\nav_prompt_selected.svg" />
     <Content Include="admin\personaBar\images\nav_settings_pending.svg" />
     <Content Include="admin\personaBar\images\nav_settings_selected.svg" />
     <Content Include="admin\personaBar\images\notify.png" />
